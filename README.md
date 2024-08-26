@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrBlueDev
 - 👀 I’m interested in developement (Game, App, Bot, ...)
 - 🌱 I’m currently learning C#, C++, Java Script, Node.js, Lua, HTML and CSS
-- 📫 How to reach me : Join my discord ! discord.gg/2YAakAyram
+- 📫 How to reach me : Join my discord (for french poeple) ! discord.gg/2YAakAyram
 - ⚡ Fun fact: I live in ✨Switzerland✨
